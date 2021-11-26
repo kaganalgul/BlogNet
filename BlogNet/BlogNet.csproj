@@ -19,4 +19,9 @@
     <Folder Include="Data\Migrations\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Uploads\sample-photo-1.jpg" />
+    <None Include="wwwroot\Uploads\sample-photo-2.jpg" />
+  </ItemGroup>
+
 </Project>
